@@ -13,9 +13,39 @@
       "2": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/04-tt-myth-fact-slide2.jpg",
       "3": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/04-tt-myth-fact-slide3.jpg",
       "4": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/04-tt-myth-fact-slide4.jpg"
+    },
+    "02": {
+      "1": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/02-ig-fix-first-slide1.jpg",
+      "2": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/02-ig-fix-first-slide2.jpg",
+      "3": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/02-ig-fix-first-slide3.jpg",
+      "4": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/02-ig-fix-first-slide4.jpg",
+      "5": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/02-ig-fix-first-slide5.jpg"
+    },
+    "03": {
+      "1": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/03-ig-client-thread-slide1.jpg",
+      "2": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/03-ig-client-thread-slide2.jpg",
+      "3": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/03-ig-client-thread-slide3.jpg"
+    },
+    "05": {
+      "1": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/05-tt-inbox-swipe-slide1.jpg",
+      "2": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/05-tt-inbox-swipe-slide2.jpg",
+      "3": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/05-tt-inbox-swipe-slide3.jpg",
+      "4": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/05-tt-inbox-swipe-slide4.jpg"
+    },
+    "06": {
+      "1": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/06-tt-lead-dm-convo-slide1.jpg",
+      "2": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/06-tt-lead-dm-convo-slide2.jpg",
+      "3": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/06-tt-lead-dm-convo-slide3.jpg",
+      "4": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/06-tt-lead-dm-convo-slide4.jpg"
+    },
+    "08": {
+      "1": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/08-tt-trust-test-slide1.jpg",
+      "2": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/08-tt-trust-test-slide2.jpg",
+      "3": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/08-tt-trust-test-slide3.jpg",
+      "4": "https://raw.githubusercontent.com/opti90/flash-daily-media/main/2026-07-18/08-tt-trust-test-slide4.jpg"
     }
   },
-  "emailed": true,
+  "emailed": false,
   "email_id": "30ef1dbd-3950-4ab3-8564-db15c097652b",
   "n_posts": 1,
   "created_at": "2026-07-18T15:00:00.556349-04:00"
